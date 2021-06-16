@@ -1,3 +1,5 @@
+This project is unmantained, deprecated and goes to archive with followup removal in 2 years.
+
 # node-sftp-s3
 [![CircleCI](https://circleci.com/gh/cmrigney/node-sftp-s3.svg?style=svg)](https://circleci.com/gh/cmrigney/node-sftp-s3)
 
